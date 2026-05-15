@@ -8,3 +8,4 @@ Adjustments will need to be made in config.jsonc
       "left": 3
     }
 larger ascii pictures will need lower top/left margin while smaller ones will need larger numbers to center them better.
+<img width="1237" height="746" alt="fastfetch" src="https://github.com/user-attachments/assets/cd76787b-271d-461b-89b5-5d600b2c75a7" />
