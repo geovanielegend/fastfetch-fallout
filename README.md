@@ -1,4 +1,4 @@
-# fastfetch-fallout
+# fallout theme for fastfetch
 
 Setup is simple, change your CLI background to any black color and the text to green #1EDE23
 You can change the hammer.txt source to any other txt files I have included or make your own
